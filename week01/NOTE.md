@@ -1,4 +1,6 @@
 # 每周总结可以写在这里
+## 前端知识思维图
+地址: https://www.yuque.com/huangqi-tkmwo/guz89i/lh18ln
 
 ## 初步了解前端知识
 - 前端技能模型
